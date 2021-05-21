@@ -1,3 +1,6 @@
 public class Demo{
 
+
+int i = 10;
+String name ="Hero";
 }
